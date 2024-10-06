@@ -42,4 +42,4 @@ For the customizations to take effect, one must redeploy/rebuild the project.
 
 ---
 
-<div align="center">Made with 💖 by Anshuman Mahato</div>
+<div align="center">Made with 💖 by Felix Kurniawan</div>

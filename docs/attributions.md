@@ -14,4 +14,4 @@
 
 ---
 
-<div align="center">Made with 💖 by Anshuman Mahato</div>
+<div align="center">Made with 💖 by Felix Kurniawan</div>
